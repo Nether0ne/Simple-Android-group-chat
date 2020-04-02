@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Group Chat</string>
+    <string name="input">Введіть повідомлення</string>
+    <string name="first_welcome">Авторизація успішна. Ласкаво просимо!</string>
+    <string name="welcome">Ласкаво просимо, </string>
+    <string name="sign_in_error">Ми не змогли авторизувати вас. Будь ласка, спробуйте пізніше.</string>
+    <string name="sign_out">Ви вийшли з акаунту.</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="auth">key=AAAAl2TAOFs:APA91bF8T6LJkC9BJSpoFHvgzO26v8moK5DXEBrXyBihTP4KDLoHHZyR8CquY9BdvhZk1rcGUCJx5liXxxMebEGf2t4bDK90QX1ZJ_BIzEiNw4O4UNo2x0IZm_cpsKR-ssi4YTIMaNhF</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "650230380635",
+    "firebase_url": "https://groupchat-de2dc.firebaseio.com",
+    "project_id": "groupchat-de2dc",
+    "storage_bucket": "groupchat-de2dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650230380635:android:ff2382b24048318ee0a77e",
+        "android_client_info": {
+          "package_name": "com.example.yanst.groupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650230380635-omoqj9mk44ls8uj6m145j4klqi8ecj0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yanst.groupchat",
+            "certificate_hash": "cb721bf35f4acd163f4e23f64d8443015793ed71"
+          }
+        },
+        {
+          "client_id": "650230380635-ub1b1cjfu293otg2k5djn7rqgerv6521.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsere68-AlIBJ9gXG2pc4LkK9iD8hbn3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650230380635-ub1b1cjfu293otg2k5djn7rqgerv6521.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
